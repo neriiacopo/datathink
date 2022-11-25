@@ -1,4 +1,4 @@
 # datathink
 Datathink is a graduate seminar on space and digitization – Est 2015
 
-More information soon!
+Pré-inscriptions umontreal: https://forms.gle/rRyKe2ioFf8JB6B49
