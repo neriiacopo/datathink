@@ -62,43 +62,47 @@ Durant le séminaire, les personnes étudiantes développeront la capacité de m
 # Calendrier 
 
 ## Jour 1
-* Contenu: Données géospatiales et cartographie
+* Contenu: Données géospatiales & encoder les lieux du passé
 * Activités:
   * 13h–14h: Introduction et lunch offert
   * 14h–15h30: Présentations 
     * Klaus Wermer (BHMPI)
-    * Javier Argota Sánchez (ETH Zurich)
-  * 16h–18h: Atelier pratique avec Paul Guhennec (EPFL)
-  * 19h–20h: Conférence par Prof. Frédérique Kaplan (EPFL)
+    * Paul Guhennec (EPFL)
+  * 16h–18h: Atelier pratique avec Paul Guhennec (EPFL) et introduction par Javier Argota Sánchez (ETH Zurich)
+  * 18h–19h: Conférence par Prof. Frédérique Kaplan (EPFL)
 * Lectures et travaux: Avant la séance, préparer un résumé (250 mots) de son projet de recherche.
 ## Jour 2
-* Contenu: Données iconographiques
+* Contenu: Jumeaux digitaux historiques & cartographier la ville contemporaine
 * Activités:
-  * 9h–12h: Travail individuel autonome 
-  * 14h–15h30: Présentations par Département Michalsky (BHMPI)
+  * 9h–11h: Travail individuel autonome
+  * 11h–13h: Exercice libre: Déambulation le long de la route de Vasi 
+  * 14h–15h30: Présentations 
+     * Alessandro Adamou (BHMPI)
+     * Pietro Liuzzo (BHMPI)
   * 16h–18h: Atelier pratique avec Javier Argota Sánchez (ETH Zurich)
-  * 20h–22h: Souper offert
+  * 20h–22h: Souper de groupe à Grappolo d’Oro
 * Lectures et travaux: Après la séance, préparer un résumé (250 mots) des concepts clés abordés
 ## Jour 3
-* Contenu: Sémantique et ontologie des données
+* Contenu: Réimaginer les liens entre le passé et le présent
 * Activités:
-  * 9h–12h: Travail individuel autonome 
+  * 9h–11h: Travail individuel autonome
+  * 11h–12h: Démonstration par Paolo Rosati (La Sapienza)
   * 14h–15h30: Présentations 
     * Renata Ago & Domizia d’Erasmo (La Sapienza)
     * Alessandro Adamou & Martin Raspe (BHMPI)
-  * 16h–18h: Atelier pratique
+  * 16h–18h: Atelier pratique avec Iacopo Neri & Dario Negueruela del Castillo (UZH-DVS)
 * Lectures et travaux: Après la séance, préparer un résumé (250 mots) des concepts clés abordés
 ## Jour 4
 * Contenu: Infrastructure de recherche numérique
 * Activités:
   * 9h–12h: Travail individuel autonome 
-  * 14h–15h30: Présentation par Thomas Hänsli (UZH)
-  * 16h–18h: Workshop avec André Ghattas (UZH)
+  * 14h–15h30: Présentation par Thomas Hänsli (UZH-SARI)
+  * 16h–18h: Workshop avec André Ghattas (UZH-SARI)
 * Lectures et travaux: Après la séance, préparer un résumé (250 mots) des concepts clés abordés
 ## Jour 5
 * Contenu: Synthèse
 * Activités:
-  * 9h–12h: Présentation des projets collectifs
+  * 9h–12h: Présentation et discussion des projets collectifs
 * Lectures et travaux: Après la séance, préparer un résumé (250 mots) des concepts clés abordés
 
 # Évaluations
