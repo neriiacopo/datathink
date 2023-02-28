@@ -8,4 +8,14 @@ Datathink is a graduate seminar on space and digitization – Est 2015
 
 [Discussions](https://github.com/CUPUM/datathink/discussions)
 
+Workshop Day 1
+
+[Google Colab notebook, Paul Guhennec -NEW ONE](https://colab.research.google.com/drive/1um_bjfm0xb_X4ZEuoRKpdmD3UhEmNREQ?usp=share_link)
+[Shared Drive folder, Paul Guhennec -NEW ONE](https://drive.google.com/drive/folders/16HLVMp4KuE5pjHce6TyEkJf5lJA1zVdM?usp=sharing)
+
+Workshop Day 2
+
+[Shared Drive folder with material from sensors, Iacopo Neri](https://drive.google.com/drive/folders/1otoOMpGWax6QLkWjsOA8iL10vfzBIfk9?usp=share_link)
+[Github repository, Javier Argota](https://github.com/Reivajar/datathink_2023)
+
 © 2023 — Shin Koseki & Dario Negueruela del Castillo
