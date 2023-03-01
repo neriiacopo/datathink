@@ -80,7 +80,7 @@ Durant le séminaire, les personnes étudiantes développeront la capacité de m
      * Alessandro Adamou (BHMPI)
      * Pietro Liuzzo (BHMPI)
   * 16h–18h: Atelier pratique avec Javier Argota Sánchez (ETH Zurich)
-  * 20h–22h: Souper de groupe à [Otello alla Concordia, via della Croce 81](https://www.google.com/maps/place/Otello+alla+Concordia/@41.9062469,12.4803363,19.15z/data=!4m15!1m8!3m7!1s0x132f6055a5630939:0x37a1cc4c14eaf2de!2sVia+della+Croce,+81,+00187+Roma+RM!3b1!8m2!3d41.906436!4d12.4804619!16s%2Fg%2F11c5mgyrj6!3m5!1s0x132f6055af9b6127:0x597c69d327480582!8m2!3d41.9067331!4d12.4803258!16s%2Fg%2F1td_79jj
+  * 20h–22h: Souper de groupe à [Otello alla Concordia, via della Croce 81](https://www.google.com/maps/place/Otello+alla+Concordia/@41.9062469,12.4803363,19.15z/data=!4m15!1m8!3m7!1s0x132f6055a5630939:0x37a1cc4c14eaf2de!2sVia+della+Croce,+81,+00187+Roma+RM!3b1!8m2!3d41.906436!4d12.4804619!16s%2Fg%2F11c5mgyrj6!3m5!1s0x132f6055af9b6127:0x597c69d327480582!8m2!3d41.9067331!4d12.4803258!16s%2Fg%2F1td_79jj)
 * Lectures et travaux: Après la séance, préparer un résumé (250 mots) des concepts clés abordés
 ## Jour 3
 * Contenu: Réimaginer les liens entre le passé et le présent
