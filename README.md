@@ -12,8 +12,8 @@ Datathink is a graduate seminar on space and digitization – Est 2015
 
 ## Atelier jour 1
 
-* [Google Colab notebook, Paul Guhennec -NEW ONE](https://colab.research.google.com/drive/1um_bjfm0xb_X4ZEuoRKpdmD3UhEmNREQ?usp=share_link)
-* [Shared Drive folder, Paul Guhennec -NEW ONE](https://drive.google.com/drive/folders/16HLVMp4KuE5pjHce6TyEkJf5lJA1zVdM?usp=sharing)
+* [Google Colab notebook, Paul Guhennec](https://colab.research.google.com/drive/1um_bjfm0xb_X4ZEuoRKpdmD3UhEmNREQ?usp=share_link)
+* [Shared Drive folder, Paul Guhennec](https://drive.google.com/drive/u/3/folders/1otoOMpGWax6QLkWjsOA8iL10vfzBIfk9)
 
 ## Atelier jour 2
 
