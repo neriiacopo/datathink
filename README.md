@@ -23,5 +23,6 @@ Datathink is a graduate seminar on space and digitization – Est 2015
 
 * [Google Colab notebook, Iacopo Neri](https://colab.research.google.com/drive/1TvT7PQkhgK69Srry5NWeGmG3P-uQIU0f?usp=share_link)
 * [Google Colab notebook, Stable Diffusion & Automatic1111 WebUI](https://colab.research.google.com/github/TheLastBen/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb#scrollTo=PjzwxTkPSPHf)
+* [Resources on Stable Diffusion](https://drive.google.com/file/d/1EBmYEsikYkAeIsTdIX29iKzP7z6zC2oy/view?usp=sharing)
 
 © 2023 — Shin Koseki & Dario Negueruela del Castillo
