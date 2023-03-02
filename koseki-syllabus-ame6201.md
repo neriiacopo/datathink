@@ -102,7 +102,7 @@ Durant le séminaire, les personnes étudiantes développeront la capacité de m
 ## Jour 5
 * Contenu: Synthèse
 * Activités:
-  * 9h–12h: Présentation et discussion des projets collectifs
+  * 11h–13h: Présentation et discussion des projets collectifs
 * Lectures et travaux: Après la séance, préparer un résumé (250 mots) des concepts clés abordés
 
 # Évaluations
