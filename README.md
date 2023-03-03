@@ -27,6 +27,6 @@ Datathink is a graduate seminar on space and digitization – Est 2015
 
 
 ## EXTRA
-* [Datathink! Evaluation form] (https://forms.gle/NFLLXpvsjoGo8XLa6)
+* [Datathink! Evaluation form](https://forms.gle/NFLLXpvsjoGo8XLa6)
 
 © 2023 — Shin Koseki & Dario Negueruela del Castillo
