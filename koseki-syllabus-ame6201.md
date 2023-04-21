@@ -27,7 +27,7 @@
 	* Courriel: dario.neguerueladelcastillo@uzh.ch
 	* GitHub: @danecas
 	* Site Internet: https://dvstudies.net/2021/11/17/dario-negueruela-del-castillo/
-### Iacopo Norris
+### Iacopo Neri
 * **Titre**: Chercheur au *Max-Planck Center for Digital Visual Studies* à l’Université de Zurich
 * **Coordonnées**:
 	* Courriel: iacopo.neri@uzh.ch
